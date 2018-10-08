@@ -7,7 +7,7 @@
 
 **Support: zack@grossbart.com**
 
-![](1.png)
+![](https://github.com/LKLiang/CoffeeRatio/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202018-08-14%20at%2017.15.10.png)
 
 
 
